@@ -2,6 +2,6 @@
 
 Refactor the useYScroll to use useSyncExternalStore.
 
-## Bonus Exercise
+## Bonus Challenge
 
 Extend the store to have selected fields
