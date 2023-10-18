@@ -1,4 +1,4 @@
-## Compount Components
+## Compound Components
 
 Compound components are components that can be used together to build UI elements. They often implicitly share state and therefor simplify the usage.
 
